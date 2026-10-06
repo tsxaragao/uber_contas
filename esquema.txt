@@ -1,0 +1,22 @@
+uber-controle/
+├── backend/
+│   ├── app/
+│   │   ├── __init__.py
+│   │   ├── database.py
+│   │   ├── models.py
+│   │   ├── schemas.py
+│   │   ├── crud.py
+│   │   └── main.py
+│   ├── requirements.txt
+│   └── uber_controle.db
+├── frontend/
+│   ├── public/
+│   ├── src/
+│   │   ├── components/
+│   │   ├── App.jsx
+│   │   ├── index.css
+│   │   └── main.jsx
+│   ├── package.json
+│   └── vite.config.js
+├── .gitignore
+└── README.md
